@@ -1,0 +1,22 @@
+{
+  "name": "graphql-client",
+  "version": "0.0.1",
+  "description": "sample client to connect graphql endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no-brand/graphql-client.git"
+  },
+  "author": "no-brand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/no-brand/graphql-client/issues"
+  },
+  "homepage": "https://github.com/no-brand/graphql-client#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
